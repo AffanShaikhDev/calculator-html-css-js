@@ -22,7 +22,7 @@ A responsive calculator built using **HTML, CSS and JavaScript**.
 No build tools or dependencies are required.
 
 ## Live Demo
-Add your deployed GitHub Pages URL here after publishing.
+https://affanshaikhdev.github.io/calculator-html-css-js/
 
 ## Author
 Affan Shaikh
